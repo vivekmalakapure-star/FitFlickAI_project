@@ -58,3 +58,4 @@ This saves mobile data, cuts server costs, and lets the app coach the user live 
 1. **Install the required libraries:**
    ```bash
    pip install -r requirements.txt
+link="http://localhost:8888/notebooks/FitFlick_AI.ipynb"
